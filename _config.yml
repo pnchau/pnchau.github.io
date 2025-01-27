@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Currently a Senior studying Computer Science at the University of Houston"
   location         : "Houston, Texas"
-  employer         : "cs.uh.edu"
-  uri              : # URL
+  employer         : "University of Houston"
+  uri              : "cs.uh.edu"
   email            : "pnchau@cougarnet.uh.edu" 
 
   # Academic websites
