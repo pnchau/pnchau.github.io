@@ -6,6 +6,6 @@
 
 main:
   - title: "Resume"
-    url: http://pnchau.github.io/files/ResumeDec5.pdf
+    url: /files/ResumeDec5.pdf
     target: _blank
 
