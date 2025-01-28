@@ -11,4 +11,3 @@ Hi, my name is Phat and I am 23 years old and am currently a senior at the Unive
 
 ## UH CS
 [Visit the University of Houston Computer Science Department](https://www.cs.uh.edu)
-
