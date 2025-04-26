@@ -8,4 +8,7 @@ main:
   - title: "Resume"
     url: /files/ResumeDec5.pdf
     target: _blank
+    
+  - title: "Portfolio"
+    url: /portfolio/
 
